@@ -1,0 +1,2 @@
+# lowcode_native
+To create a low code interface for native applications. Currently, low code platforms are targeted at end-to-end applications from front end to back end using the user interface. They are good for mobile and web platforms. But in fact, the idea of using low code could eventually apply for embedded or high performance applications. I shall try to explore how we can reuse libraries in github and link them up using a web frontend. 
